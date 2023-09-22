@@ -21,6 +21,7 @@ N/A
 
 ## Link
 
+https://elisestankus.github.io/Horiseon-SEO-elisestankus/
 
 ## Screenshot
 ![image 1 of the Horiseon SEO webpage](Horiseon-SEO1.png)
