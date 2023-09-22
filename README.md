@@ -23,8 +23,8 @@ N/A
 
 
 ## Screenshot
-![image 1 of the Horiseon SEO webpage](assets/images/Horiseon-SEO1.png)
+![image 1 of the Horiseon SEO webpage](Horiseon-SEO1.png)
 
-![image 2 of the Horiseon SEO webpage](assets/images/Horiseon-SEO2.png)
+![image 2 of the Horiseon SEO webpage](Horiseon-SEO2.png)
 
-![image 3 of the Horiseon SEO webpage](assets/images/Horiseon-SEO3.png)
+![image 3 of the Horiseon SEO webpage](Horiseon-SEO3.png)
